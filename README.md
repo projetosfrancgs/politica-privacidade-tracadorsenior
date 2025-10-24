@@ -2,4 +2,4 @@
 
 Este repositório contém a política de privacidade oficial do aplicativo Traçador Sênior.
 
-O documento completo pode ser acessado em [Link da Política de Privacidade (RAW)].
+O documento completo pode ser acessado em https://raw.githubusercontent.com/projetosfrancgs/politica-privacidade-tracadorsenior/refs/heads/main/politica-de-privacidade.md
